@@ -1,4 +1,4 @@
-# Amigo Secreto - Desafío de Desarrollo
+# Challenge Amigo Secreto - Alura G8 2025
 
 ## Descripción
 
