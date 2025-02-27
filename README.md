@@ -22,6 +22,7 @@ Los usuarios pueden ingresar los nombres, y luego, al presionar un botón, uno d
 (En Desarrollo) 3. **Reinicio**: Después de realizar el sorteo, puede reiniciar el proceso para uno nuevo haciendo clic en el botón **Reiniciar Sorteo**.
 
 ## Insignia de entrega del Challenge
+![insignia de entregado](https://github.com/user-attachments/assets/d3018a74-7c37-47b6-bc33-b8897639c654)
 
 
 
