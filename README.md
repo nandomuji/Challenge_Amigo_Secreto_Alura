@@ -19,5 +19,9 @@ Los usuarios pueden ingresar los nombres, y luego, al presionar un botón, uno d
 
 1. **Agregar amigos**: Escriba el nombre de un amigo en el campo de texto y haga clic en el botón **Añadir**.
 2. **Sorteo**: Después de agregar al menos 3 amigos, haga clic en el botón **Sortear amigo** para seleccionar aleatoriamente a un amigo secreto.
-3. **Reinicio**: Después de realizar el sorteo, puede reiniciar el proceso para uno nuevo haciendo clic en el botón **Reiniciar Sorteo**.
+(En Desarrollo) 3. **Reinicio**: Después de realizar el sorteo, puede reiniciar el proceso para uno nuevo haciendo clic en el botón **Reiniciar Sorteo**.
+
+## Insignia de entrega del Challenge
+
+
 
