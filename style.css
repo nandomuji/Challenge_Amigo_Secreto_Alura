@@ -1,5 +1,5 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #525558;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
@@ -143,6 +143,13 @@ ul {
     text-align: center;
 }
 
+.amigo-sorteado {
+    color: #759eff;  
+    font-size: 1.5rem; /* Tamaño más grande */
+    font-weight: bold; /* Negrita */
+    text-transform: uppercase; /* convierte el texto en mayúsculas */
+}
+
 /* Botón de sortear título */
 .button-draw {
     display: flex;
@@ -163,6 +170,13 @@ ul {
     color: var(--color-white);
     background-color: #565656;
     font-size: 16px;
+}
+
+.button-image:disabled {
+    background-color: #A9A9A9; /* Un gris más claro */
+    color: #666666; /* Un gris oscuro para el texto */
+    cursor: not-allowed; /* Cambia el cursor para indicar que está deshabilitado */
+    opacity: 0.6; /* Hace que el botón se vea más apagado */
 }
 
 .button-image:hover {
@@ -187,7 +201,7 @@ li {
     font-weight: bolder;
     color: var(--color-white);
     text-align: center;
-    background: #4B69FD;
+    background: #759eff;
     border-radius: 10px;
     padding: .5rem 1rem;
 }
